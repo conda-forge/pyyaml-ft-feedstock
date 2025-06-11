@@ -14,6 +14,12 @@ jobs:
       osx_64_python3.13.____cp313t:
         CONFIG: osx_64_python3.13.____cp313t
         UPLOAD_PACKAGES: 'True'
+      osx_arm64_python3.13.____cp313:
+        CONFIG: osx_arm64_python3.13.____cp313
+        UPLOAD_PACKAGES: 'True'
+      osx_arm64_python3.13.____cp313t:
+        CONFIG: osx_arm64_python3.13.____cp313t
+        UPLOAD_PACKAGES: 'True'
   timeoutInMinutes: 360
   variables: {}
 
