@@ -12,7 +12,7 @@ source:
     - 0001-Ensure-we-do-not-end-up-wih-CRLF-line-endings-on-tes.patch
 
 build:
-  number: 2
+  number: 3
 
 requirements:
   build:
